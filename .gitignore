@@ -1,0 +1,4 @@
+# For Clion User's
+.idea/
+cmake-build-debug/
+build/
